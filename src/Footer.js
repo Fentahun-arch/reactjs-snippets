@@ -4,7 +4,7 @@ const today=new Date();
 function Footer () {
   return (
       <div className='footer'>
-          <p>Copyright &copy; {today.getFullYear()}</p>
+          <p>Copyright &copy; {today.getFullYear()}.All Rights Reseved</p>
       </div>
   )
 }
